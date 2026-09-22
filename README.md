@@ -10,7 +10,6 @@
 
 <br/>
 
-### Contribution Snake 🐍
 
 <p align="center">
   <picture>
@@ -31,10 +30,9 @@
 
 <br/>
 
-### Pixel Stats (CRT)
 
 <p align="center">
-  <img src="https://pixel-profile.vercel.app/api/github-stats?username=YashPratap17&theme=crt&include_all_commits=true" />
+  <img src="https://raw.githubusercontent.com/YashPratap17/YashPratap17/output/github-stats-crt.png" />
 </p>
 
 <br/>
