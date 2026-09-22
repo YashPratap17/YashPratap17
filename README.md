@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img width="450em" src="https://raw.githubusercontent.com/YashPratap17/YashPratap17/output/github-stats-crt.svg" alt="CRT GitHub stats" />
+  <img width="450em" src="https://raw.githubusercontent.com/YashPratap17/YashPratap17/output/github-stats-crt.png" alt="CRT GitHub stats" />
 </p>
 
 <p align="center">
