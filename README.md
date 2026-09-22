@@ -1,30 +1,41 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=250&section=header&text=Hi%20There%2C%20I'm%20Yash%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=CS%20Undergrad%20%7C%20Building%20Neodia%20for%20AKTU%20Students&descAlignY=55&descSize=18&descColor=e0e0e0" />
-</p>
-
-- 🚀 Building **[Neodia](https://neodia.in)** — a student platform for AKTU B.Tech CSE students
-- 📫 [LinkedIn](https://www.linkedin.com/in/yash-pratap-singh-3565a6328/)
+<h3 align="center">Yash Pratap Singh</h3>
 
 <p align="center">
-  <img src="https://pixel-profile.vercel.app/api/github-stats?username=YashPratap17&theme=crt&include_all_commits=true" />
+  <a href="https://www.linkedin.com/in/yash-pratap-singh-3565a6328/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YashPratap17&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
+  <img width="450em" src="https://raw.githubusercontent.com/YashPratap17/YashPratap17/output/github-stats-crt.svg" alt="CRT GitHub stats" />
 </p>
 
 <p align="center">
-  <img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
+  <img width="450em" src="https://github-readme-stats.vercel.app/api?username=YashPratap17&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" alt="GitHub stats" />
 </p>
+
+<p align="center">
+  <img width="450em" src="https://streak-stats.demolab.com/?user=YashPratap17&hide_border=true&theme=dark" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashPratap17&layout=compact&custom_title=Most%20used%20languages&langs_count=10&include_all_commits=true&hide_progress=false&hide_border=true&theme=dark" alt="Top languages" />
+</p>
+
+## 3D Contributions
+
+<p align="center">
+  <a href="./profile-3d-contrib/profile-night-green.svg">
+    <img width="900em" src="./profile-3d-contrib/profile-night-green.svg" alt="3D contributions" />
+  </a>
+</p>
+
+## Snake
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YashPratap17/YashPratap17/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YashPratap17/YashPratap17/output/github-snake.svg">
-    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/YashPratap17/YashPratap17/output/github-snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YashPratap17/YashPratap17/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YashPratap17/YashPratap17/output/github-snake-dark.svg" />
+    <img alt="Snake contribution graph" src="https://raw.githubusercontent.com/YashPratap17/YashPratap17/output/github-snake.svg" />
   </picture>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:2c5364,100:0f2027&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=ffffff" />
 </p>
