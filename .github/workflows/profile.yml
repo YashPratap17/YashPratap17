@@ -21,7 +21,7 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           crt_outputs: |
-            dist/github-stats-crt.svg?username=YashPratap17&include_all_commits=true
+            dist/github-stats-crt?username=YashPratap17&include_all_commits=true
 
       - name: Generate snake
         uses: Platane/snk@v3
