@@ -16,6 +16,9 @@ jobs:
       contents: write
 
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
       - name: Generate CRT stats card
         uses: LuciNyan/pixel-profile/action@main
         with:
