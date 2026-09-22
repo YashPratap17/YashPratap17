@@ -19,13 +19,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate CRT stats card
-        uses: LuciNyan/pixel-profile/action@main
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          crt_outputs: |
-            dist/github-stats-crt?username=YashPratap17&include_all_commits=true
-
       - name: Generate snake
         uses: Platane/snk@v3
         with:
@@ -35,7 +28,7 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&color_background=#aaaaaa
 
-      - name: Push cards and snake to output branch
+      - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
