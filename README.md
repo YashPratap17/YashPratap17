@@ -10,7 +10,7 @@
   <img width="100%" src="https://pixel-profile.vercel.app/api/github-stats?username=YashPratap17&theme=journey&dithering=true&hide=avatar" alt="Pixel profile stats" />
 </p>
 
-## 3D Contributions
+## Contributions
 
 <p align="center">
   <a href="./profile-3d-contrib/profile-night-green.svg">
@@ -18,7 +18,7 @@
   </a>
 </p>
 
-## Snake
+
 
 <p align="center">
   <picture>
