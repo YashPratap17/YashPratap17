@@ -18,7 +18,7 @@
   <tr>
     <td align="center" valign="middle" width="30%">
       <!-- Verified working pixel Mario GIF -->
-      <img src="https://media.tenor.com/5v3k1nF8k2AAAAAj/mario-pixel.gif" width="180" alt="Mario" />
+      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="180" alt="Mario" />
     </td>
     <td align="center" valign="middle" width="70%">
       <!-- This marquee animation moves the badges horizontally -->
