@@ -4,9 +4,8 @@
 
 ### About Me
 
-- 🎓 CS undergraduate
 - 🚀 Building **[Neodia](https://neodia.in)** — a student platform for AKTU B.Tech CSE students, with tools like a CGPA converter, attendance planner, and ATS resume checker
-- 🛠️ Comfortable with Django, React, Tailwind CSS, and SQLite — currently growing into Next.js and Java
+- 🛠️ Comfortable with Django, React, Tailwind CSS, and SQLite — currently growing into Next.js and Supabase
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/yash-pratap-singh-3565a6328/)
 
 <br/>
@@ -28,6 +27,14 @@
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YashPratap17&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashPratap17&layout=compact&hide_border=true&theme=dark&langs_count=10" />
+</p>
+
+<br/>
+
+### Pixel Stats (CRT)
+
+<p align="center">
+  <img src="https://pixel-profile.vercel.app/api/github-stats?username=YashPratap17&theme=crt&include_all_commits=true" />
 </p>
 
 <br/>
