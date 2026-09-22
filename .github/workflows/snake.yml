@@ -1,4 +1,4 @@
-name: generate snake animation
+name: generate profile assets
 
 on:
   schedule:
@@ -23,6 +23,12 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+
+      - name: generate pixel-profile crt card
+        uses: LuciNyan/pixel-profile/action@main
+        with:
+          crt_outputs: |
+            dist/github-stats-crt?username=${{ github.repository_owner }}&include_all_commits=true
 
       - name: push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
