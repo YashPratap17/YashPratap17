@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:8b5cf6&height=220&section=header&text=Yash%20Pratap%20Singh&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=50&stroke=a855f7&strokeWidth=2&desc=Crafting%20code%20from%20the%20shadows&descAlignY=72&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:8b5cf6&height=220&section=header&text=Yash%20Pratap%20Singh&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=50&stroke=a855f7&strokeWidth=2" />
 </h1>
 
 <p align="center">
@@ -12,19 +12,26 @@
   <img width="100%" src="https://pixel-profile.vercel.app/api/github-stats?username=YashPratap17&theme=journey&dithering=true&hide=avatar" alt="Pixel profile stats" />
 </p>
 
-## 🧬 Tech Stack
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/yash-pratap-singh-3565a6328/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/yash-pratap-singh-3565a6328/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
-  <a href="https://www.linkedin.com/in/yash-pratap-singh-3565a6328/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/yash-pratap-singh-3565a6328/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/yash-pratap-singh-3565a6328/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
-  <a href="https://www.linkedin.com/in/yash-pratap-singh-3565a6328/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/yash-pratap-singh-3565a6328/"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/yash-pratap-singh-3565a6328/"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/yash-pratap-singh-3565a6328/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
-</p>
+<table align="center" border="0">
+  <tr>
+    <td align="center" valign="middle" width="30%">
+      <img src="https://media.giphy.com/media/4T7e4DmcrP9du/giphy.gif" width="180" alt="Mario" />
+    </td>
+    <td align="center" valign="middle" width="70%">
+      <marquee direction="left" scrollamount="7" behavior="scroll">
+        <a href="https://www.linkedin.com/in/yash-pratap-singh-3565a6328/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /></a>&nbsp;
+        <a href="https://www.linkedin.com/in/yash-pratap-singh-3565a6328/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>&nbsp;
+        <a href="https://www.linkedin.com/in/yash-pratap-singh-3565a6328/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>&nbsp;
+        <a href="https://www.linkedin.com/in/yash-pratap-singh-3565a6328/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>&nbsp;
+        <a href="https://www.linkedin.com/in/yash-pratap-singh-3565a6328/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>&nbsp;
+        <a href="https://www.linkedin.com/in/yash-pratap-singh-3565a6328/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>&nbsp;
+        <a href="https://www.linkedin.com/in/yash-pratap-singh-3565a6328/"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /></a>&nbsp;
+        <a href="https://www.linkedin.com/in/yash-pratap-singh-3565a6328/"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /></a>&nbsp;
+        <a href="https://www.linkedin.com/in/yash-pratap-singh-3565a6328/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>&nbsp;
+      </marquee>
+    </td>
+  </tr>
+</table>
 
 ## 🚀 Projects
 
@@ -71,8 +78,4 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YashPratap17/YashPratap17/output/github-snake-dark.svg" />
     <img width="100%" alt="Snake contribution graph" src="https://raw.githubusercontent.com/YashPratap17/YashPratap17/output/github-snake.svg" />
   </picture>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="120" alt="Mario" />
 </p>
