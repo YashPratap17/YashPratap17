@@ -12,12 +12,16 @@
   <img width="100%" src="https://pixel-profile.vercel.app/api/github-stats?username=YashPratap17&theme=journey&dithering=true&hide=avatar" alt="Pixel profile stats" />
 </p>
 
+## 🧬 Tech Stack
+
 <table align="center" border="0">
   <tr>
     <td align="center" valign="middle" width="30%">
-      <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="180" alt="Mario" />
+      <!-- Verified working pixel Mario GIF -->
+      <img src="https://media.tenor.com/5v3k1nF8k2AAAAAj/mario-pixel.gif" width="180" alt="Mario" />
     </td>
     <td align="center" valign="middle" width="70%">
+      <!-- This marquee animation moves the badges horizontally -->
       <marquee direction="left" scrollamount="7" behavior="scroll">
         <a href="https://www.linkedin.com/in/yash-pratap-singh-3565a6328/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /></a>&nbsp;
         <a href="https://www.linkedin.com/in/yash-pratap-singh-3565a6328/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>&nbsp;
