@@ -27,6 +27,7 @@ jobs:
       - name: generate pixel-profile crt card
         uses: LuciNyan/pixel-profile/action@main
         with:
+          github_token: ${{ secrets.STATS_PAT }}
           crt_outputs: |
             dist/github-stats-crt?username=${{ github.repository_owner }}&include_all_commits=true
 
