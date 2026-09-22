@@ -3,6 +3,11 @@
 </h1>
 
 <p align="center">
+  <i>Crafting code from the shadows — one commit at a time.</i><br>
+  <sub>Full-Stack Developer · Campus Builder · AKTU Prep Pioneer</sub>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/yash-pratap-singh-3565a6328/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -14,14 +19,12 @@
 
 ## 🧬 Tech Stack
 
-<table align="center" border="0">
+<table align="center">
   <tr>
-    <td align="center" valign="middle" width="30%">
-      <!-- Verified working pixel Mario GIF -->
-      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="180" alt="Mario" />
+    <td align="center" valign="middle" width="35%">
+      <img src="YOUR_MARIO_LINK_HERE" width="300" alt="Mario" />
     </td>
-    <td align="center" valign="middle" width="70%">
-      <!-- This marquee animation moves the badges horizontally -->
+    <td align="center" valign="middle" width="65%">
       <marquee direction="left" scrollamount="7" behavior="scroll">
         <a href="https://www.linkedin.com/in/yash-pratap-singh-3565a6328/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /></a>&nbsp;
         <a href="https://www.linkedin.com/in/yash-pratap-singh-3565a6328/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>&nbsp;
@@ -37,7 +40,7 @@
   </tr>
 </table>
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 <table align="center">
   <tr>
@@ -66,7 +69,7 @@
   </tr>
 </table>
 
-## 3D Contributions
+## 🌌 Footprints in the Cosmos
 
 <p align="center">
   <a href="./profile-3d-contrib/profile-night-green.svg">
@@ -74,7 +77,7 @@
   </a>
 </p>
 
-## Snake
+## 🐍 The Serpent's Trail
 
 <p align="center">
   <picture>
