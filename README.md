@@ -2,14 +2,20 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=250&section=header&text=Hi%20There%2C%20I'm%20Yash%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=CS%20Undergrad%20%7C%20Building%20Neodia%20for%20AKTU%20Students&descAlignY=55&descSize=18&descColor=e0e0e0" />
 </p>
 
-### About Me
+- 🚀 Building **[Neodia](https://neodia.in)** — a student platform for AKTU B.Tech CSE students
+- 📫 [LinkedIn](https://www.linkedin.com/in/yash-pratap-singh-3565a6328/)
 
-- 🚀 Building **[Neodia](https://neodia.in)** — a student platform for AKTU B.Tech CSE students, with tools like a CGPA converter, attendance planner, and ATS resume checker
-- 🛠️ Comfortable with Django, React, Tailwind CSS, and SQLite — currently growing into Next.js and Supabase
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/yash-pratap-singh-3565a6328/)
+<p align="center">
+  <img src="https://pixel-profile.vercel.app/api/github-stats?username=YashPratap17&theme=crt&include_all_commits=true" />
+</p>
 
-<br/>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YashPratap17&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
+</p>
 
+<p align="center">
+  <img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
+</p>
 
 <p align="center">
   <picture>
@@ -17,33 +23,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YashPratap17/YashPratap17/output/github-snake.svg">
     <img alt="contribution snake animation" src="https://raw.githubusercontent.com/YashPratap17/YashPratap17/output/github-snake.svg">
   </picture>
-</p>
-
-<br/>
-
-### GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YashPratap17&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashPratap17&layout=compact&hide_border=true&theme=dark&langs_count=10" />
-</p>
-
-<br/>
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YashPratap17/YashPratap17/output/github-stats-crt.png" />
-</p>
-
-<br/>
-
-<p align="center">
-  <a href="https://neodia.in">
-    <img src="https://img.shields.io/badge/Neodia-neodia.in-2c5364?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/yash-pratap-singh-3565a6328/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
 </p>
 
 <p align="center">
