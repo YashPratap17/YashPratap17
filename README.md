@@ -15,7 +15,7 @@
 <table align="center" border="0">
   <tr>
     <td align="center" valign="middle" width="30%">
-      <img src="https://media.giphy.com/media/xUOwGhOrYP0jP6iAy4/giphy.gif" width="180" alt="Mario" />
+      <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="180" alt="Mario" />
     </td>
     <td align="center" valign="middle" width="70%">
       <marquee direction="left" scrollamount="7" behavior="scroll">
