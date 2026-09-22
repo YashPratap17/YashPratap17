@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img width="450em" src="https://raw.githubusercontent.com/YashPratap17/YashPratap17/output/github-stats-crt.png" alt="CRT GitHub stats" />
+  <img width="450em" src="https://pixel-profile.vercel.app/api/github-stats?username=YashPratap17&theme=journey&dithering=true&hide=avatar" alt="Pixel profile stats" />
 </p>
 
 <p align="center">
