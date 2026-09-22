@@ -7,26 +7,26 @@
 </p>
 
 <p align="center">
-  <img width="450em" src="https://pixel-profile.vercel.app/api/github-stats?username=YashPratap17&theme=journey&dithering=true&hide=avatar" alt="Pixel profile stats" />
+  <img width="100%" src="https://pixel-profile.vercel.app/api/github-stats?username=YashPratap17&theme=journey&dithering=true&hide=avatar" alt="Pixel profile stats" />
 </p>
 
 <p align="center">
-  <img width="450em" src="https://github-readme-stats.vercel.app/api?username=YashPratap17&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" alt="GitHub stats" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=YashPratap17&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img width="450em" src="https://streak-stats.demolab.com/?user=YashPratap17&hide_border=true&theme=dark" alt="GitHub streak" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=YashPratap17&hide_border=true&theme=dark" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashPratap17&layout=compact&custom_title=Most%20used%20languages&langs_count=10&include_all_commits=true&hide_progress=false&hide_border=true&theme=dark" alt="Top languages" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashPratap17&layout=compact&custom_title=Most%20used%20languages&langs_count=10&include_all_commits=true&hide_progress=false&hide_border=true&theme=dark" alt="Top languages" />
 </p>
 
 ## 3D Contributions
 
 <p align="center">
   <a href="./profile-3d-contrib/profile-night-green.svg">
-    <img width="900em" src="./profile-3d-contrib/profile-night-green.svg" alt="3D contributions" />
+    <img width="100%" src="./profile-3d-contrib/profile-night-green.svg" alt="3D contributions" />
   </a>
 </p>
 
@@ -36,6 +36,6 @@
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YashPratap17/YashPratap17/output/github-snake.svg" />
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YashPratap17/YashPratap17/output/github-snake-dark.svg" />
-    <img alt="Snake contribution graph" src="https://raw.githubusercontent.com/YashPratap17/YashPratap17/output/github-snake.svg" />
+    <img width="100%" alt="Snake contribution graph" src="https://raw.githubusercontent.com/YashPratap17/YashPratap17/output/github-snake.svg" />
   </picture>
 </p>
