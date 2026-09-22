@@ -4,7 +4,6 @@
 
 <p align="center">
   <i>Crafting code from the shadows — one commit at a time.</i><br>
-  <sub>Full-Stack Developer · Campus Builder · AKTU Prep Pioneer</sub>
 </p>
 
 <p align="center">
