@@ -10,18 +10,6 @@
   <img width="100%" src="https://pixel-profile.vercel.app/api/github-stats?username=YashPratap17&theme=journey&dithering=true&hide=avatar" alt="Pixel profile stats" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=YashPratap17&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com/?user=YashPratap17&hide_border=true&theme=dark" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashPratap17&layout=compact&custom_title=Most%20used%20languages&langs_count=10&include_all_commits=true&hide_progress=false&hide_border=true&theme=dark" alt="Top languages" />
-</p>
-
 ## 3D Contributions
 
 <p align="center">
