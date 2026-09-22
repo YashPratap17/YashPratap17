@@ -1,4 +1,6 @@
-<h3 align="center">Yash Pratap Singh</h3>
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:8b5cf6&height=220&section=header&text=Yash%20Pratap%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=50&stroke=8b5cf6&strokeWidth=2" />
+</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yash-pratap-singh-3565a6328/">
@@ -10,7 +12,7 @@
   <img width="100%" src="https://pixel-profile.vercel.app/api/github-stats?username=YashPratap17&theme=journey&dithering=true&hide=avatar" alt="Pixel profile stats" />
 </p>
 
-## Contributions
+## 3D Contributions
 
 <p align="center">
   <a href="./profile-3d-contrib/profile-night-green.svg">
@@ -18,7 +20,7 @@
   </a>
 </p>
 
-
+## Snake
 
 <p align="center">
   <picture>
