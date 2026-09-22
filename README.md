@@ -19,12 +19,12 @@
 
 ## 🧬 Tech Stack
 
-<table align="center">
-  <tr>
-    <td align="center" valign="middle" width="35%">
-      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300" alt="Mario" />
+<table align="center" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td align="center" valign="middle" width="50%" style="border: none; background: transparent;">
+      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" alt="Mario" />
     </td>
-    <td align="center" valign="middle" width="65%">
+    <td align="center" valign="middle" width="50%" style="border: none; background: transparent;">
       <marquee direction="left" scrollamount="7" behavior="scroll">
         <a href="https://www.linkedin.com/in/yash-pratap-singh-3565a6328/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /></a>&nbsp;
         <a href="https://www.linkedin.com/in/yash-pratap-singh-3565a6328/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>&nbsp;
@@ -42,26 +42,26 @@
 
 ## 🚀 Featured Projects
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
+<table align="center" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td align="center" width="50%" style="border: none;">
       <h3>🧬 Neodia</h3>
       <p>All-in-one AKTU prep platform — notes, PYQs, and resources in one place.</p>
       <a href="https://neodia.in"><img src="https://img.shields.io/badge/Visit-neodia.in-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="50%" style="border: none;">
       <h3>🎯 Attendance Pro</h3>
       <p>Attendance tracking app built with Python & Django.</p>
       <a href="https://attendancepro-2.onrender.com"><img src="https://img.shields.io/badge/Live_Demo-attendancepro-3ECF8E?style=for-the-badge&logo=render&logoColor=white" /></a>
     </td>
   </tr>
-  <tr>
-    <td align="center" width="50%">
+  <tr style="border: none;">
+    <td align="center" width="50%" style="border: none;">
       <h3>📸 Poloroider</h3>
       <p>Turn your pictures into Polaroids. Built with Java SpringBoot.</p>
       <a href="https://poloroider.onrender.com"><img src="https://img.shields.io/badge/Live_Demo-poloroider-ED8B00?style=for-the-badge&logo=render&logoColor=white" /></a>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="50%" style="border: none;">
       <h3>🏦 Kosh</h3>
       <p>All-in-one banking app — from the campus, for the campus.</p>
       <a href="https://kosh-47eq.onrender.com"><img src="https://img.shields.io/badge/Live_Demo-kosh-0A66C2?style=for-the-badge&logo=render&logoColor=white" /></a>
