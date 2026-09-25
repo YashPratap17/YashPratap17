@@ -4,7 +4,7 @@
 
 <p align="center">
   <i>Crafting code from the shadows — one commit at a time.</i><br>
-  <sub>Full-Stack Developer</sub>
+  
 </p>
 
 <p align="center">
