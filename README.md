@@ -4,16 +4,13 @@
 
 <p align="center">
   <i>Crafting code from the shadows — one commit at a time.</i><br>
+  <sub>Full-Stack Developer</sub>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yash-pratap-singh-3565a6328/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://pixel-profile.vercel.app/api/github-stats?username=YashPratap17&theme=journey&dithering=true&hide=avatar" alt="Pixel profile stats" />
 </p>
 
 ## 🧬 Tech Stack
